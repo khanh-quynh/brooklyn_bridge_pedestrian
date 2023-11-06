@@ -273,6 +273,6 @@ if __name__ == "__main__":
 
 ### Charts
 - Here are 2 supporting charts for pivot table (1) and (2) 
-![time and the number of pedestrians](./images/PivotTable1.png)
+![time and the number of pedestrians](./image/PivotTable1.png)
 
-![seasonal effect on someone's decision to go to the Brooklyn Bridge](./images/PivotTable2.png)
+![seasonal effect on someone's decision to go to the Brooklyn Bridge](./image/PivotTable2.png)
